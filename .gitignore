@@ -6,5 +6,11 @@
 /dataSources.local.xml
 # Editor-based HTTP Client requests
 /httpRequests/
+<<<<<<< HEAD
 .idea/
 venv/
+=======
+
+.idea/
+venv/
+>>>>>>> lesson2
