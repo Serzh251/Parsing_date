@@ -8,21 +8,33 @@ search_text = input('введите то что вы ищете: ')
 
 headers = {'User-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64)'}
 url = (f'https://www.superjob.ru/vacancy/search/?keywords={search_text}')
-# url = (f'https://hh.ru/search/vacancy?clusters=true&area=113&ored_clusters=true&enable_snippets=true&salary=&st=searchVacancy&text=python')
 
-response = requests.get(url, headers=headers).text
+response = requests.get(url=url, headers=headers).text
 soup = BeautifulSoup(response, 'lxml')
 data = []
-app = soup.find(id='app')
-item = app.findAll(class_='f-test-search-result-item')
-for i in item:
-    link = soup.find("a", {"class": "_6AfZ9"})
-    salary = soup.find(class_='f-test-text-company-item-salary')
-    salary = salary.text
+
+items = soup.find_all('div', class_='f-test-search-result-item')
+
+for i in items:
+    try:
+        salary = i.find('span', class_='f-test-text-company-item-salary').text
+    except:
+        salary = 'no data salary'
+    try:
+        name = i.find('a', class_='icMQ_').text
+    except:
+        name = 'no data name'
+    try:
+        link = 'https://www.superjob.ru/' + i.find('a').get("href")
+    except:
+        link = 'no data link'
     data.append({
-        'link': 'https://www.superjob.ru/' + link['href'],
-        'name': link.text,
+        'link': link,
+        'name': name,
         'salary': salary
     })
 
 pd.DataFrame(data).to_csv('vacancies.csv', index=False, encoding='utf-8')
+
+with open('vacancies_list.json', 'w', encoding='utf-8') as file:
+    json.dump(data, file, ensure_ascii=False, indent=4)
