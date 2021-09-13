@@ -1,4 +1,7 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> lesson2
 # Default ignored files
 /shelf/
 /workspace.xml
@@ -7,8 +10,14 @@
 /dataSources.local.xml
 # Editor-based HTTP Client requests
 /httpRequests/
+<<<<<<< HEAD
 =======
 
 >>>>>>> lesson1
 .idea/
 venv/
+=======
+
+.idea/
+venv/
+>>>>>>> lesson2
