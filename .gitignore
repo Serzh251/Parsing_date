@@ -11,13 +11,21 @@
 # Editor-based HTTP Client requests
 /httpRequests/
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+.idea/
+venv/
+>>>>>>> lesson3
 =======
 
 >>>>>>> lesson1
 .idea/
 venv/
+<<<<<<< HEAD
 =======
 
 .idea/
 venv/
+=======
+>>>>>>> lesson3
 >>>>>>> lesson2
