@@ -1,7 +1,7 @@
 import requests
 import json
 
-headers = {'User-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64)',
+headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64)',
                     'Authorization':'Token your token'}
 url = "https://api.github.com/user"
 req = requests.get(url, headers=headers)
