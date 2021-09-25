@@ -1,0 +1,450 @@
+_id,name,salary
+614edb564d81b9031984d350,Python разработчик,до  380000   руб.  на руки 
+614edb594d81b9031984d351,Junior Data Engineer (Python),от  120000  до  120000   руб.  до вычета налогов 
+614edb5c4d81b9031984d352,Разработчик Python (Junior),от  80000   руб.  на руки 
+614edb5e4d81b9031984d353,Junior Python developer,от  45000  до  60000   руб.  до вычета налогов 
+614edb604d81b9031984d354,Стажер разработчик Python,от  20000  до  50000   руб.  на руки 
+614edb634d81b9031984d355,Senior data engineer (Python),от  4000  до  6000   USD  до вычета налогов 
+614edb664d81b9031984d356,Data Scientist,з/п не указана 
+614edb684d81b9031984d357,Middle-backend Python разработчик / программист,от  180000  до  220000   руб.  на руки 
+614edb6b4d81b9031984d358,Python Developer,з/п не указана 
+614edb6d4d81b9031984d359,Data Scientist,з/п не указана 
+614edb6f4d81b9031984d35a,Data Scientist,от  200000   руб.  до вычета налогов 
+614edb714d81b9031984d35b,Senior data engineer (python),от  4000  до  6000   USD  до вычета налогов 
+614edb744d81b9031984d35c,Web-программист Python (Middle/Senior),от  170000   руб.  на руки 
+614edb764d81b9031984d35d,Middle Python developer,з/п не указана 
+614edb794d81b9031984d35e,Team Lead Python Engineer,до  8000   USD  на руки 
+614edb7c4d81b9031984d35f,Data Engineer в Сбере,от  300000   руб.  до вычета налогов 
+614edb834d81b9031984d360,Старший программист Python,от  4000  до  5000   USD  до вычета налогов 
+614edb864d81b9031984d361,Python - разработчик в Сбере,от  300000   руб.  до вычета налогов 
+614edb894d81b9031984d362,Разработчик Python (средний уровень),от  3000  до  4000   USD  до вычета налогов 
+614edb8e4d81b9031984d363,Python-разработчик,з/п не указана 
+614edc0596d402cd9ab1fcd8,Python разработчик,до  380000   руб.  на руки 
+614edc0896d402cd9ab1fcdb,Разработчик Python (Junior),от  80000   руб.  на руки 
+614edc0996d402cd9ab1fcdc,Junior Data Engineer (Python),от  120000  до  120000   руб.  до вычета налогов 
+614edc0d96d402cd9ab1fcde,Junior Python developer,от  45000  до  60000   руб.  до вычета налогов 
+614edc0f96d402cd9ab1fce0,Senior data engineer (Python),от  4000  до  6000   USD  до вычета налогов 
+614edc1196d402cd9ab1fce2,Стажер разработчик Python,от  20000  до  50000   руб.  на руки 
+614edc1396d402cd9ab1fce4,Data Scientist,з/п не указана 
+614edc1696d402cd9ab1fce5,Middle-backend Python разработчик / программист,от  180000  до  220000   руб.  на руки 
+614edc1896d402cd9ab1fce6,Python Developer,з/п не указана 
+614edc1a96d402cd9ab1fcea,Data Scientist,от  200000   руб.  до вычета налогов 
+614edc1c96d402cd9ab1fcec,Data Scientist,з/п не указана 
+614edc1c96d402cd9ab1fced,Senior data engineer (python),от  4000  до  6000   USD  до вычета налогов 
+614edc1f96d402cd9ab1fcef,Web-программист Python (Middle/Senior),от  170000   руб.  на руки 
+614edc2296d402cd9ab1fcf1,Middle Python developer,з/п не указана 
+614edc2896d402cd9ab1fcf2,Data Engineer в Сбере,от  300000   руб.  до вычета налогов 
+614edc2b96d402cd9ab1fcf5,Team Lead Python Engineer,до  8000   USD  на руки 
+614edc2e96d402cd9ab1fcf8,Старший программист Python,от  4000  до  5000   USD  до вычета налогов 
+614edc3096d402cd9ab1fcfc,Python - разработчик в Сбере,от  300000   руб.  до вычета налогов 
+614edc3396d402cd9ab1fcfd,Разработчик Python (средний уровень),от  3000  до  4000   USD  до вычета налогов 
+614edc3796d402cd9ab1fcff,Python-разработчик,з/п не указана 
+614edc0796d402cd9ab1fcd9,Разработчик Python / Fastapi,100000  руб. месяц 
+614edc0796d402cd9ab1fcda,"Full-stack Developer (Python, Javascript)",350000 430000  руб. месяц 
+614edc0b96d402cd9ab1fcdd,"Программист-инженер С++, Python",150000 175000  руб. месяц 
+614edc0f96d402cd9ab1fcdf,Python developer,100000  руб. месяц 
+614edc1096d402cd9ab1fce1,"Backend-разработчик (PHP, Ruby, Python)",от  100000руб. месяц 
+614edc1296d402cd9ab1fce3,Разработчик Python (middle/senior),80000 95000  руб. месяц 
+614edc1896d402cd9ab1fce7,Программист Python,80000 95000  руб. месяц 
+614edc1896d402cd9ab1fce8,Backend-разработчик Python,100000 120000  руб. месяц 
+614edc1996d402cd9ab1fce9,Python-разработчик,от  100000руб. месяц 
+614edc1c96d402cd9ab1fceb,Middle Python разработчик (Продукт Залоговая экспертиза),80000 95000  руб. месяц 
+614edc1d96d402cd9ab1fcee,Senior Python Backend Developer / WEB-разработчик,80000 95000  руб. месяц 
+614edc2196d402cd9ab1fcf0,Junior / Pre-middle Python Developer,от  49000руб. месяц 
+614edc2896d402cd9ab1fcf3,Python developer (Backend) в международную IT-компанию,
+614edc2996d402cd9ab1fcf4,Backend Developer Python,
+614edc2b96d402cd9ab1fcf6,Backend Python Django Developer Data Science Computer Vision ML Engineer,
+614edc2b96d402cd9ab1fcf7,Senior Python разработчик,80000 95000  руб. месяц 
+614edc2e96d402cd9ab1fcf9,Разработчик Android (Kotlin),от  90000руб. месяц 
+614edc2f96d402cd9ab1fcfa,Инженер (программирование),от  40000руб. месяц 
+614edc2f96d402cd9ab1fcfb,IT-специалист,от  45000руб. месяц 
+614edc3596d402cd9ab1fcfe,Системный администратор Windows Linux,80000 95000  руб. месяц 
+614edc3796d402cd9ab1fd00,Ведущий программист микроконтроллеров на языке С++,80000 95000  руб. месяц 
+614edc3796d402cd9ab1fd01,Специалист технической поддержки,от  15000руб. месяц 
+614edc3b96d402cd9ab1fd02,Специалист службы поддержки (с техническими знаниями),от  30000руб. месяц 
+614edc3d96d402cd9ab1fd03,Преподаватель программирования и робототехники,от  80000руб. месяц 
+614edc4196d402cd9ab1fd04,Программист-разработчик C#,от  84000руб. месяц 
+614edc4496d402cd9ab1fd05,Разработчик встроенного ПО,80000 95000  руб. месяц 
+614edc4696d402cd9ab1fd06,Аналитик,от  43000руб. месяц 
+614edc4996d402cd9ab1fd07,Системный администратор,75000  руб. месяц 
+614edc4c96d402cd9ab1fd08,Старший инженер в отдел разработки и сопровождения аналитических систем / Старший QV инженер,до  110000руб. месяц 
+614edc5196d402cd9ab1fd09,Разработчик SQL,80000 95000  руб. месяц 
+614edc5296d402cd9ab1fd0a,Программист 1С,от  100000руб. месяц 
+614edc5296d402cd9ab1fd0b,Продуктовый аналитик,
+614edc5696d402cd9ab1fd0c,Data Engineer (Spark/Python),от  15000руб. месяц 
+614edc5796d402cd9ab1fd0d,Аналитик,
+614edc5b96d402cd9ab1fd0e,QA Engineer / Тестировщик (Python),от  150000руб. месяц 
+614edc5f96d402cd9ab1fd0f,Разработчик Python (риск-стратегий),45000 55000  руб. месяц 
+614edc6096d402cd9ab1fd10,Разработчик Python / Django,от  80000руб. месяц 
+614edc6396d402cd9ab1fd11,Python Backend Team Lead,
+614edc6596d402cd9ab1fd12,Teamlead команды разработки с Python,
+614edc6896d402cd9ab1fd13,"Аналитик в отдел планирования (SQL, Python/R)",
+614edc7696d402cd9ab1fd14,Руководитель направления операционного мониторинга,
+614edc7796d402cd9ab1fd15,Программист 1С,от  100000руб. месяц 
+614edc7896d402cd9ab1fd16,Web-мастер,от  33000руб. месяц 
+614edc7c96d402cd9ab1fd17,Инженер-расчетчик (СКБ ГТУ/Сектор промышленных компрессоров),от  50000руб. месяц 
+614edc7e96d402cd9ab1fd18,Программист 1С,от  100000руб. месяц 
+614edc8196d402cd9ab1fd19,Инженер VoIP,от  50000руб. месяц 
+614edc8196d402cd9ab1fd1a,Системный администратор Linux,80000 95000  руб. месяц 
+614edc8296d402cd9ab1fd1b,Программист-разработчик,от  75000руб. месяц 
+614edc8796d402cd9ab1fd1c,Инженер IT,от  69300руб. месяц 
+614edc8896d402cd9ab1fd1d,Тестировщик ПО и радиоустройств,от  150000руб. месяц 
+614edc8a96d402cd9ab1fd1e,Ведущий программист С/С++ / Программист С (С++ микроконтроллеров),от  80000руб. месяц 
+614edc8d96d402cd9ab1fd1f,DevOps инженер,от  69300руб. месяц 
+614edc8e96d402cd9ab1fd20,Аналитик данных,от  35000руб. месяц 
+614edc9296d402cd9ab1fd21,Разработчик программного обеспечения,80000 95000  руб. месяц 
+614edc9296d402cd9ab1fd22,"Инженер, научный сотрудник (электрохимия)",от  35000руб. месяц 
+614edc9796d402cd9ab1fd23,Ведущий специалист в группу сопровождения процессов взыскания,127700 157300  руб. месяц 
+614edc9896d402cd9ab1fd24,Техник,от  35000руб. месяц 
+614edc9b96d402cd9ab1fd25,DevOps‐инженер,от  69300руб. месяц 
+614edc9d96d402cd9ab1fd26,Программист-аналитик,38000 47500  руб. месяц 
+614edca496d402cd9ab1fd27,Ведущий инженер технической поддержки,от  72000руб. месяц 
+614edca896d402cd9ab1fd28,IT-специалист,60000  руб. месяц 
+614edca896d402cd9ab1fd29,Программист со знанием машинного обучения и нейронных сетей / Deep Learning Engineer,150000 170000  руб. месяц 
+614edca996d402cd9ab1fd2a,Программист С++,150000 170000  руб. месяц 
+614edcae96d402cd9ab1fd2b,Специалист по информационным системам,от  80000руб. месяц 
+614edcae96d402cd9ab1fd2c,Системный администратор,80000 95000  руб. месяц 
+614edcb096d402cd9ab1fd2d,Web-разработчик,от  100000руб. месяц 
+614edcb196d402cd9ab1fd2e,Middle Full-stack Developer,175000 200000  руб. месяц 
+614edcb696d402cd9ab1fd2f,Fullstack веб-разработчик,29700  руб. месяц 
+614edcb896d402cd9ab1fd30,Senior / middle Ruby on rails Developer (в продуктовую компанию),до  350000руб. месяц 
+614edcb996d402cd9ab1fd31,Lead Backend Developer,260000 320000  руб. месяц 
+614edcbb96d402cd9ab1fd32,DevOps Engineer (Azure),250000 300000  руб. месяц 
+614edcbb96d402cd9ab1fd33,Веб-программист,до  40000руб. месяц 
+614edcc096d402cd9ab1fd34,Преподаватель компьютерных курсов,от  80000руб. месяц 
+614edcc296d402cd9ab1fd35,Начинающий Программист С/С++ микроконтроллеров,80000 95000  руб. месяц 
+614edcc596d402cd9ab1fd36,Ведущий аналитик,
+614edcc696d402cd9ab1fd37,Ведущий инженер по данным,80000  руб. месяц 
+614edcc896d402cd9ab1fd38,Data Scientist,до  150000руб. месяц 
+614edccf96d402cd9ab1fd39,Программист 1C,120000 150000  руб. месяц 
+614edcd196d402cd9ab1fd3a,SEO-оптимизатор,до  110000руб. месяц 
+614edcd396d402cd9ab1fd3b,С/С developer (Synapse),
+614edcd796d402cd9ab1fd3c,Инженер-программист,от  80000руб. месяц 
+614edcdb96d402cd9ab1fd3d,Учитель информатики / робототехники (основная школа и профильное образование),от  79000руб. месяц 
+614edcdd96d402cd9ab1fd3e,Ведущий специалист отдела информационных технологий,от  65000руб. месяц 
+614edcde96d402cd9ab1fd3f,Middle специалист по автоматическому тестированию веб-приложений / QA инженер / Тестировщик,от  150000руб. месяц 
+614edce096d402cd9ab1fd40,Компьютерный лингвист,от  50000руб. месяц 
+614edce096d402cd9ab1fd41,Fullstack Developer,100000 120000  руб. месяц 
+614edce196d402cd9ab1fd42,Инженер-схемотехник,от  40000руб. месяц 
+614edce596d402cd9ab1fd43,Системный инженер (DevOps),от  69300руб. месяц 
+614edce896d402cd9ab1fd44,Руководитель по внедрению проектов,от  45000руб. месяц 
+614edcee96d402cd9ab1fd45,Ведущий программист Perl,80000 95000  руб. месяц 
+614edcee96d402cd9ab1fd46,Аналитик,
+614edcf296d402cd9ab1fd47,Ведущий инженер-программист / Разработчик программных решений,150000 175000  руб. месяц 
+614edcf396d402cd9ab1fd48,"Backend-разработчик (PHP, Middle)",от  100000руб. месяц 
+614edcf796d402cd9ab1fd49,Программист 1С,от  100000руб. месяц 
+614edcf796d402cd9ab1fd4a,Преподаватель программирования,от  36000руб. месяц 
+614edcfa96d402cd9ab1fd4b,Инженер-разработчик,150000  руб. месяц 
+614edcfb96d402cd9ab1fd4c,"Главный инженер, технический директор",70000  руб. месяц 
+614edcfb96d402cd9ab1fd4d,Менеджер по персоналу,от  97200руб. месяц 
+614edcff96d402cd9ab1fd4e,Backend разработчик,150000 170000  руб. месяц 
+614edd0796d402cd9ab1fd4f,ML engineer / Data scientist,
+614edd0796d402cd9ab1fd50,DevOps инженер,от  69300руб. месяц 
+614edd0796d402cd9ab1fd51,Тестировщик ПО со знанием английского языка,от  150000руб. месяц 
+614edd0b96d402cd9ab1fd52,Инженер-физик,от  80000руб. месяц 
+614edd0c96d402cd9ab1fd53,Ведущий разработчик серверной части,80000 95000  руб. месяц 
+614edd0c96d402cd9ab1fd54,"Системный администратор, IT-специалист",от  72849руб. месяц 
+614edd0d96d402cd9ab1fd55,Аналитик мобильных приложений / Игровой Аналитик (junior),
+614edd0d96d402cd9ab1fd56,Системный администратор Linux,от  70000руб. месяц 
+614edd1296d402cd9ab1fd57,Инженер технической поддержки,от  72000руб. месяц 
+614edd1396d402cd9ab1fd58,TeamLead развития решений по управлению данными (г. Сочи),
+614edd1896d402cd9ab1fd59,Специалист по информационным системам,до  32000руб. месяц 
+614edd1996d402cd9ab1fd5a,Преподаватель компьютерных курсов (удаленно),от  80000руб. месяц 
+614edd1f96d402cd9ab1fd5b,Инженер-программист ЧМИ (SCADA),от  75000руб. месяц 
+614edd2396d402cd9ab1fd5c,Преподаватель компьютерных курсов,от  80000руб. месяц 
+614edd2396d402cd9ab1fd5d,Программист,160000  руб. месяц 
+614edd2496d402cd9ab1fd5e,Ведущий инженер,от  89000руб. месяц 
+614edd2696d402cd9ab1fd5f,Ведущий аудитор,500  руб. час 20000 25000  руб. месяц 
+614edd2996d402cd9ab1fd60,Специалист по обработке данных (Аналитик данных),до  32000руб. месяц 
+614edd2f96d402cd9ab1fd61,Учитель информатики,от  79000руб. месяц 
+614edd3296d402cd9ab1fd62,Преподаватель программирования / видеоблогинга,от  36000руб. месяц 
+614edd3296d402cd9ab1fd63,Эксперт по Cisco Security,125000 150000  руб. месяц 
+614edd3696d402cd9ab1fd64,Программист,от  100000руб. месяц 
+614edd3896d402cd9ab1fd65,Главный специалист отдела систем мониторинга и наблюдения,до  32000руб. месяц 
+614edd3b96d402cd9ab1fd66,Аналитик (Junior),от  35000руб. месяц 
+614edd3c96d402cd9ab1fd67,Педагог дополнительного образования в сфере IT,от  35000руб. месяц 
+614edd4296d402cd9ab1fd68,Системный инженер / DevOps (удаленная работа),от  69300руб. месяц 
+614edd4396d402cd9ab1fd69,Инженер BMS/АСУЗ,от  69300руб. месяц 
+614edd4896d402cd9ab1fd6a,Преподаватель компьютерных курсов для детей,от  36000руб. месяц 
+614edd4896d402cd9ab1fd6b,"Аналитик поддержки приложений (ERP, CRM)",от  72849руб. месяц 
+614edd4b96d402cd9ab1fd6c,Frontend программист,160000  руб. месяц 
+614edd5196d402cd9ab1fd6d,Golang (Go) Developer в международную IT-компанию,
+614edd5196d402cd9ab1fd6e,"Преподаватель it-курсов, программирования, информатики",60000 70000  руб. месяц 
+614edd5696d402cd9ab1fd6f,Junior Analyst / Младший аналитик (удаленная работа),от  34000руб. месяц 
+614edd5796d402cd9ab1fd70,Web-программист,160000  руб. месяц 
+614edd5796d402cd9ab1fd71,FullStack разработчик (автоматизация процессов и алгоритмов выявления мошенничества),150000  руб. месяц 
+614edd5b96d402cd9ab1fd72,Web-аналитик,от  34000руб. месяц 
+614edd5c96d402cd9ab1fd73,Преподаватель программирования и IT технологий,от  40000руб. месяц 
+614edd6196d402cd9ab1fd74,Data Engineer / Support Engineer,
+614edd6596d402cd9ab1fd75,DevOps-инженер,от  69300руб. месяц 
+614edd6896d402cd9ab1fd76,Педагог дополнительного образования,от  55000руб. месяц 
+614edd6b96d402cd9ab1fd77,QA Automation Engineer,
+614edd6c96d402cd9ab1fd78,Системный администратор,27000 33000  руб. месяц 
+614edd6f96d402cd9ab1fd79,Программист 1С,от  80000руб. месяц 
+614edd6f96d402cd9ab1fd7a,Специалист информационно-коммуникационных систем / Системный администратор 2-я линия,от  70000руб. месяц 
+614edd7296d402cd9ab1fd7b,"Преподаватель программирования, веб-разработки",от  22000руб. месяц 
+614edd7496d402cd9ab1fd7c,Back-программист,от  120000руб. месяц 
+614edd7596d402cd9ab1fd7d,"Системный администратор, IT-специалист",от  72849руб. месяц 
+614edd7896d402cd9ab1fd7e,DevOps инженер,от  69300руб. месяц 
+614edd7996d402cd9ab1fd7f,Data Analyst,от  100000руб. месяц 
+614edd7d96d402cd9ab1fd80,Учитель информатики,от  79000руб. месяц 
+614edd7d96d402cd9ab1fd81,Специалист 1 разряда отдела мониторинга функционирования АИС ФНС России,от  60000руб. месяц 
+614edd7e96d402cd9ab1fd82,Технический писатель (разработка программного обеспечения),
+614edd8196d402cd9ab1fd83,Web-программист,150000 170000  руб. месяц 
+614edd8396d402cd9ab1fd84,Аналитик данных,30000 37000  руб. месяц 
+614edd8996d402cd9ab1fd85,Администратор информационных систем,от  50000руб. месяц 
+614edd8c96d402cd9ab1fd86,Аналитик,от  72849руб. месяц 
+614edd8c96d402cd9ab1fd87,C разработчик,160000  руб. месяц 
+614edd9196d402cd9ab1fd88,Программист микроконтроллеров,150000 170000  руб. месяц 
+614edd9496d402cd9ab1fd89,Backend Developer,от  80000руб. месяц 
+614edd9896d402cd9ab1fd8a,Инженер-программист по интеграции систем,150000 175000  руб. месяц 
+614edd9a96d402cd9ab1fd8b,Администратор сопровождения,от  50000руб. месяц 
+614edd9b96d402cd9ab1fd8c,DevOps,
+614edda096d402cd9ab1fd8d,QA automation,
+614edda196d402cd9ab1fd8e,DevOps-инженер,от  40000руб. месяц 
+614edda696d402cd9ab1fd8f,Data scientist,150000 175000  руб. месяц 
+614edda796d402cd9ab1fd90,Customer Journey Expert кластера Благосостояние,
+614eddaa96d402cd9ab1fd91,Ведущий инженер по сопровождению в департамент ИТ блока Финансы,от  89000руб. месяц 
+614eddad96d402cd9ab1fd92,Аналитик данных (Data Scientist),от  30000руб. месяц 
+614eddad96d402cd9ab1fd93,Дежурный администратор,
+614eddb396d402cd9ab1fd94,DevOps-инженер контейнеризированных решений,от  65000руб. месяц 
+614eddb496d402cd9ab1fd95,Data Scientist,до  150000руб. месяц 
+614eddb896d402cd9ab1fd96,Аналитик экономических показателей,от  35000руб. месяц 
+614eddb896d402cd9ab1fd97,Ведущий инженер по сопровождению,от  89000руб. месяц 
+614eddbb96d402cd9ab1fd98,Инженер внедрения и сопровождения (Platform V),от  69300руб. месяц 
+614eddbc96d402cd9ab1fd99,Ведущий инженер по нагрузочному тестированию Вологда,120000  руб. месяц 
+614eddbf96d402cd9ab1fd9a,DevOps инженер,от  40000руб. месяц 
+614eddc296d402cd9ab1fd9b,Консультант по интеграции SAP,от  28000руб. месяц 
+614eddc296d402cd9ab1fd9c,Представитель владельца моделей,от  55000руб. месяц 
+614eddc396d402cd9ab1fd9d,Руководитель направления портфельного анализа (Collection),
+614eddc796d402cd9ab1fd9e,Системный аналитик в трайб Риски розничного бизнеса,
+614eddc996d402cd9ab1fd9f,Java разработчик,150000 170000  руб. месяц 
+614ede9ed33a26efd9122d7d,,Вибрационный насос СОЮЗ Малыш НГС-97128В,"['https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_2000,h_2000,c_pad,b_white,d_photoiscoming.png/LMCode/90122745.jpg']",
+614edea0d33a26efd9122d7e,,"Насос погружной колодезный Oasis 25,50, высота подъема 50 м, 1500 л,час","['https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_2000,h_2000,c_pad,b_white,d_photoiscoming.png/LMCode/82378831.jpg', 'https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_2000,h_2000,c_pad,b_white,d_photoiscoming.png/LMCode/82378831_01.jpg', 'https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_2000,h_2000,c_pad,b_white,d_photoiscoming.png/LMCode/82378831_02.jpg', 'https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_2000,h_2000,c_pad,b_white,d_photoiscoming.png/LMCode/82378831_03.jpg', 'https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_2000,h_2000,c_pad,b_white,d_photoiscoming.png/LMCode/82378831_04.jpg', 'https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_2000,h_2000,c_pad,b_white,d_photoiscoming.png/LMCode/82378831_05.jpg', 'https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_2000,h_2000,c_pad,b_white,d_photoiscoming.png/LMCode/82378831_06.jpg', 'https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_2000,h_2000,c_pad,b_white,d_photoiscoming.png/LMCode/82378831_07.jpg', 'https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_2000,h_2000,c_pad,b_white,d_photoiscoming.png/LMCode/82378831_drw.jpg']",
+614edea5d33a26efd9122d81,,"Скважинный насос ДЖИЛЕКС Водомет ПРОФ 40,75","['https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_2000,h_2000,c_pad,b_white,d_photoiscoming.png/LMCode/93769033.jpg', 'https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_2000,h_2000,c_pad,b_white,d_photoiscoming.png/LMCode/93769033_01.jpg', 'https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_2000,h_2000,c_pad,b_white,d_photoiscoming.png/LMCode/93769033_02.jpg']",
+614edea6d33a26efd9122d82,,"Насос циркуляционный ПРИМА UPS32,60 180","['https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_2000,h_2000,c_pad,b_white,d_photoiscoming.png/LMCode/93722766.jpg']",
+614edea9d33a26efd9122d83,,"Насос циркуляционный КАМА RS 32,6-180","['https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_2000,h_2000,c_pad,b_white,d_photoiscoming.png/LMCode/93722718.jpg']",
+614edeabd33a26efd9122d86,,"Скважинный насос КАМА 95НПС14-1,1-2,70","['https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_2000,h_2000,c_pad,b_white,d_photoiscoming.png/LMCode/93722690.jpg']",
+614edeafd33a26efd9122d8b,,"Насос циркуляционный КАМА КАМА-17 НБЦ-800,35","['https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_2000,h_2000,c_pad,b_white,d_photoiscoming.png/LMCode/93722707.jpg']",
+614edeb4d33a26efd9122d91,,Насос-измельчитель SFA Sanitop,"['https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_2000,h_2000,c_pad,b_white,d_photoiscoming.png/LMCode/11397242.jpg', 'https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_2000,h_2000,c_pad,b_white,d_photoiscoming.png/LMCode/11397242_01.jpg']",
+614edeb5d33a26efd9122d92,,Насос циркуляционный UNIPUMP UPC 25-40 180,"['https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_2000,h_2000,c_pad,b_white,d_photoiscoming.png/LMCode/93769170.jpg', 'https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_2000,h_2000,c_pad,b_white,d_photoiscoming.png/LMCode/93769170_01.jpg']",
+614edeb8d33a26efd9122d94,,Насос циркуляционный КАМА НПД-120-15,"['https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_2000,h_2000,c_pad,b_white,d_photoiscoming.png/LMCode/93722709.jpg']",
+614edebcd33a26efd9122d99,,"Насос циркуляционный ПРИМА NC-400,36","['https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_2000,h_2000,c_pad,b_white,d_photoiscoming.png/LMCode/93722752.jpg']",
+614edeb8d33a26efd9122d95,,Насос санитарный SFA Sanivite,"['https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_2000,h_2000,c_pad,b_white,d_photoiscoming.png/LMCode/11116770.jpg', 'https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_2000,h_2000,c_pad,b_white,d_photoiscoming.png/LMCode/11116770_01.jpg', 'https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_2000,h_2000,c_pad,b_white,d_photoiscoming.png/LMCode/11116770_02.jpg', 'https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_2000,h_2000,c_pad,b_white,d_photoiscoming.png/LMCode/11116770_03.jpg']",
+614edebfd33a26efd9122d9d,,"Насос циркуляционный Oasis 32,8 180 мм","['https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_2000,h_2000,c_pad,b_white,d_photoiscoming.png/LMCode/13715072.jpg', 'https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_2000,h_2000,c_pad,b_white,d_photoiscoming.png/LMCode/13715072_drw_05.jpg']",
+614edec1d33a26efd9122da0,,Скважинный насос UNIPUMP ECO VINT 2,"['https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_2000,h_2000,c_pad,b_white,d_photoiscoming.png/LMCode/93769149.jpg', 'https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_2000,h_2000,c_pad,b_white,d_photoiscoming.png/LMCode/93769149_01.jpg']",
+614edec4d33a26efd9122da5,,Скважинный насос STURM! WP9705DW,"['https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_2000,h_2000,c_pad,b_white,d_photoiscoming.png/LMCode/90122717.jpg']",
+614edec5d33a26efd9122da6,,"Скважинный насос КАМА 95НПС6-0,4-2,30","['https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_2000,h_2000,c_pad,b_white,d_photoiscoming.png/LMCode/93722694.jpg']",
+614edec7d33a26efd9122daa,,"Насос циркуляционный Oasis 32,4 180 мм","['https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_2000,h_2000,c_pad,b_white,d_photoiscoming.png/LMCode/13715048.jpg', 'https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_2000,h_2000,c_pad,b_white,d_photoiscoming.png/LMCode/13715048_01.jpg', 'https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_2000,h_2000,c_pad,b_white,d_photoiscoming.png/LMCode/13715048_03.jpg', 'https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_2000,h_2000,c_pad,b_white,d_photoiscoming.png/LMCode/13715048_drw_05.jpg']",
+614eded3d33a26efd9122db4,,"Насос садовый скважинный «Водомёт» 3.3,9, высота подъема 90 м, кабель 50 м, 3300 л,час","['https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_2000,h_2000,c_pad,b_white,d_photoiscoming.png/LMCode/82585528.jpg']",
+614eded4d33a26efd9122db5,,Скважинный насос UNIPUMP ECO VINT 1,"['https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_2000,h_2000,c_pad,b_white,d_photoiscoming.png/LMCode/93769148.jpg', 'https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_2000,h_2000,c_pad,b_white,d_photoiscoming.png/LMCode/93769148_01.jpg']",
+614edee7d33a26efd9122dbd,,"Насос циркуляционный ПРИМА NC-300,25","['https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_2000,h_2000,c_pad,b_white,d_photoiscoming.png/LMCode/93722750.jpg']",
+614edee7d33a26efd9122dbe,,Скважинный насос STURM! WP9704DW,"['https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_2000,h_2000,c_pad,b_white,d_photoiscoming.png/LMCode/90122718.jpg']",
+614edee5d33a26efd9122dbb,,"Насос садовый вибрационный Patriot Лесной Ручей 12В, верхний забор воды 1080 л,час","['https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_2000,h_2000,c_pad,b_white,d_photoiscoming.png/LMCode/18832331.jpg', 'https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_2000,h_2000,c_pad,b_white,d_photoiscoming.png/LMCode/18832331_01.jpg', 'https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_2000,h_2000,c_pad,b_white,d_photoiscoming.png/LMCode/18832331_02.jpg', 'https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_2000,h_2000,c_pad,b_white,d_photoiscoming.png/LMCode/18832331_03.jpg']",
+614edeaad33a26efd9122d84,Разработчик Python / Fastapi,100000  руб. месяц 
+614edeabd33a26efd9122d88,"Full-stack Developer (Python, Javascript)",350000 430000  руб. месяц 
+614edeadd33a26efd9122d89,"Программист-инженер С++, Python",150000 175000  руб. месяц 
+614edeb1d33a26efd9122d8d,Python developer,100000  руб. месяц 
+614edeb2d33a26efd9122d8e,"Backend-разработчик (PHP, Ruby, Python)",от  100000руб. месяц 
+614edeb3d33a26efd9122d8f,Разработчик Python (middle/senior),160000  руб. месяц 
+614edebcd33a26efd9122d98,Программист Python,160000  руб. месяц 
+614edebcd33a26efd9122d9a,Python-разработчик,от  100000руб. месяц 
+614edebfd33a26efd9122d9c,Backend-разработчик Python,100000 120000  руб. месяц 
+614edec0d33a26efd9122d9e,Middle Python разработчик (Продукт Залоговая экспертиза),160000  руб. месяц 
+614edec1d33a26efd9122d9f,Senior Python Backend Developer / WEB-разработчик,160000  руб. месяц 
+614edec3d33a26efd9122da1,Python developer (Backend) в международную IT-компанию,
+614edec3d33a26efd9122da4,Junior / Pre-middle Python Developer,от  49000руб. месяц 
+614edec7d33a26efd9122da9,Backend Developer Python,
+614edec7d33a26efd9122dab,Senior Python разработчик,160000  руб. месяц 
+614edecbd33a26efd9122dac,Backend Python Django Developer Data Science Computer Vision ML Engineer,
+614edecfd33a26efd9122daf,Разработчик Python / Django,от  80000руб. месяц 
+614eded0d33a26efd9122db0,Инженер (программирование),от  40000руб. месяц 
+614eded1d33a26efd9122db1,Разработчик Android (Kotlin),от  90000руб. месяц 
+614eded5d33a26efd9122db6,IT-специалист,от  45000руб. месяц 
+614eded8d33a26efd9122db8,Системный администратор Windows Linux,80000 95000  руб. месяц 
+614edee3d33a26efd9122db9,Ведущий программист микроконтроллеров на языке С++,160000  руб. месяц 
+614edee5d33a26efd9122dba,Специалист технической поддержки,от  15000руб. месяц 
+614edee6d33a26efd9122dbc,Программист-разработчик C#,от  84000руб. месяц 
+614edeead33a26efd9122dc0,Аналитик,от  43000руб. месяц 
+614edeead33a26efd9122dc1,Преподаватель программирования и робототехники,от  80000руб. месяц 
+614edeebd33a26efd9122dc2,Специалист службы поддержки (с техническими знаниями),от  30000руб. месяц 
+614edeeed33a26efd9122dc5,Старший инженер в отдел разработки и сопровождения аналитических систем / Старший QV инженер,до  110000руб. месяц 
+614edef0d33a26efd9122dc7,Системный администратор,75000  руб. месяц 
+614edef4d33a26efd9122dc8,Разработчик SQL,160000  руб. месяц 
+614edef8d33a26efd9122dc9,Разработчик встроенного ПО,160000  руб. месяц 
+614edef9d33a26efd9122dca,Программист 1С,от  100000руб. месяц 
+614edefbd33a26efd9122dcb,Аналитик,от  72849руб. месяц 
+614edefdd33a26efd9122dcc,Продуктовый аналитик,от  72849руб. месяц 
+614edefdd33a26efd9122dcd,QA Engineer / Тестировщик (Python),от  150000руб. месяц 
+614edf00d33a26efd9122dce,Data Engineer (Spark/Python),от  15000руб. месяц 
+614edf01d33a26efd9122dcf,Python Backend Team Lead,
+614edf05d33a26efd9122dd1,Разработчик Python (риск-стратегий),45000 55000  руб. месяц 
+614edf05d33a26efd9122dd2,Teamlead команды разработки с Python,
+614edf07d33a26efd9122dd3,"Аналитик в отдел планирования (SQL, Python/R)",от  72849руб. месяц 
+614edf0bd33a26efd9122dd6,DevOps инженер,до  53500руб. месяц 
+614edf0cd33a26efd9122dd7,Разработчик программного обеспечения,160000  руб. месяц 
+614edf10d33a26efd9122dd9,"Инженер, научный сотрудник (электрохимия)",от  35000руб. месяц 
+614edf11d33a26efd9122dda,Ведущий специалист в группу сопровождения процессов взыскания,127700 157300  руб. месяц 
+614edf15d33a26efd9122ddb,Техник,от  35000руб. месяц 
+614edf16d33a26efd9122ddc,Программист 1C,120000 150000  руб. месяц 
+614edf1ad33a26efd9122ddd,С/С developer (Synapse),
+614edf1ad33a26efd9122dde,SEO-оптимизатор,до  110000руб. месяц 
+614edf1fd33a26efd9122ddf,Аналитик данных,от  35000руб. месяц 
+614edf20d33a26efd9122de0,Руководитель направления операционного мониторинга,
+614edf24d33a26efd9122de1,Web-мастер,от  60000руб. месяц 
+614edf25d33a26efd9122de2,Программист 1С,от  100000руб. месяц 
+614edf29d33a26efd9122de3,Инженер-расчетчик (СКБ ГТУ/Сектор промышленных компрессоров),до  50000руб. месяц 
+614edf2ad33a26efd9122de4,Программист 1С,от  100000руб. месяц 
+614edf2fd33a26efd9122de5,Системный администратор Linux,80000 95000  руб. месяц 
+614edf31d33a26efd9122de6,Инженер VoIP,до  50000руб. месяц 
+614edf34d33a26efd9122de7,Программист-аналитик,38000 47500  руб. месяц 
+614edf35d33a26efd9122de8,DevOps‐инженер,до  53500руб. месяц 
+614edf37d33a26efd9122de9,IT-специалист,60000  руб. месяц 
+614edf37d33a26efd9122dea,Ведущий инженер технической поддержки,от  72000руб. месяц 
+614edf3bd33a26efd9122deb,Программист С++,150000 170000  руб. месяц 
+614edf3cd33a26efd9122dec,Программист со знанием машинного обучения и нейронных сетей / Deep Learning Engineer,150000 170000  руб. месяц 
+614edf3dd33a26efd9122ded,Системный администратор,80000 95000  руб. месяц 
+614edf41d33a26efd9122dee,Специалист по информационным системам,37500 45000  руб. месяц 
+614edf42d33a26efd9122def,Web-разработчик,от  100000руб. месяц 
+614edf46d33a26efd9122df0,Middle Full-stack Developer,175000 200000  руб. месяц 
+614edf49d33a26efd9122df1,Fullstack веб-разработчик,29700  руб. месяц 
+614edf4bd33a26efd9122df2,Senior / middle Ruby on rails Developer (в продуктовую компанию),до  350000руб. месяц 
+614edf50d33a26efd9122df3,Lead Backend Developer,260000 320000  руб. месяц 
+614edf51d33a26efd9122df4,DevOps Engineer (Azure),250000 300000  руб. месяц 
+614edf52d33a26efd9122df5,Веб-программист,до  40000руб. месяц 
+614edf55d33a26efd9122df6,Преподаватель компьютерных курсов,от  80000руб. месяц 
+614edf57d33a26efd9122df7,Начинающий Программист С/С++ микроконтроллеров,160000  руб. месяц 
+614edf57d33a26efd9122df8,Ведущий инженер по данным,80000  руб. месяц 
+614edf5ad33a26efd9122df9,Ведущий аналитик,от  72849руб. месяц 
+614edf5dd33a26efd9122dfa,Data Scientist,до  150000руб. месяц 
+614edf62d33a26efd9122dfb,Программист-разработчик,от  75000руб. месяц 
+614edf63d33a26efd9122dfc,Инженер IT,до  53500руб. месяц 
+614edf67d33a26efd9122dfd,Тестировщик ПО и радиоустройств,от  150000руб. месяц 
+614edf69d33a26efd9122dfe,Ведущий программист С/С++ / Программист С (С++ микроконтроллеров),от  80000руб. месяц 
+614edea1d33a26efd9122d7f,Python разработчик,до  380000   руб.  на руки 
+614edea4d33a26efd9122d80,Junior Data Engineer (Python),от  120000  до  120000   руб.  до вычета налогов 
+614edeaad33a26efd9122d85,Junior Python developer,от  45000  до  60000   руб.  до вычета налогов 
+614edeabd33a26efd9122d87,Разработчик Python (Junior),от  80000   руб.  на руки 
+614edeaed33a26efd9122d8a,Senior data engineer (Python),от  4000  до  6000   USD  до вычета налогов 
+614edeb1d33a26efd9122d8c,Стажер разработчик Python,от  20000  до  50000   руб.  на руки 
+614edeb3d33a26efd9122d90,Middle-backend Python разработчик / программист,от  180000  до  220000   руб.  на руки 
+614edeb7d33a26efd9122d93,Python Developer,з/п не указана 
+614edebad33a26efd9122d96,Data Scientist,з/п не указана 
+614edebad33a26efd9122d97,Data Scientist,з/п не указана 
+614edebcd33a26efd9122d9b,Data Scientist,от  200000   руб.  до вычета налогов 
+614edec3d33a26efd9122da2,Senior data engineer (python),от  4000  до  6000   USD  до вычета налогов 
+614edec3d33a26efd9122da3,Middle Python developer,з/п не указана 
+614edec6d33a26efd9122da7,Team Lead Python Engineer,до  8000   USD  на руки 
+614edec6d33a26efd9122da8,Web-программист Python (Middle/Senior),от  170000   руб.  на руки 
+614edecbd33a26efd9122dad,Data Engineer в Сбере,от  300000   руб.  до вычета налогов 
+614edeced33a26efd9122dae,Старший программист Python,от  4000  до  5000   USD  до вычета налогов 
+614eded1d33a26efd9122db2,Python - разработчик в Сбере,от  300000   руб.  до вычета налогов 
+614eded3d33a26efd9122db3,Разработчик Python (средний уровень),от  3000  до  4000   USD  до вычета налогов 
+614eded7d33a26efd9122db7,Python-разработчик,з/п не указана 
+614edeecd33a26efd9122dc3,,"Насос циркуляционный ПРИМА UPS25,20 180","['https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_2000,h_2000,c_pad,b_white,d_photoiscoming.png/LMCode/93722760.jpg']",
+614edeead33a26efd9122dbf,,Насос санитарный Oasis SD-250,"['https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_2000,h_2000,c_pad,b_white,d_photoiscoming.png/LMCode/82000644.jpg', 'https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_2000,h_2000,c_pad,b_white,d_photoiscoming.png/LMCode/82000644_01.jpg', 'https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_2000,h_2000,c_pad,b_white,d_photoiscoming.png/LMCode/82000644_02.jpg', 'https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_2000,h_2000,c_pad,b_white,d_photoiscoming.png/LMCode/82000644_03.jpg', 'https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_2000,h_2000,c_pad,b_white,d_photoiscoming.png/LMCode/82000644_04.jpg']",
+614edeedd33a26efd9122dc4,,"Насос циркуляционный Oasis 25,8 180 мм","['https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_2000,h_2000,c_pad,b_white,d_photoiscoming.png/LMCode/13715021.jpg', 'https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_2000,h_2000,c_pad,b_white,d_photoiscoming.png/LMCode/13715021_drw_05.jpg']",
+614edf04d33a26efd9122dd0,,Скважинный насос СОЮЗ НГС-9705ДВ,"['https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_2000,h_2000,c_pad,b_white,d_photoiscoming.png/LMCode/90122700.jpg']",
+614edeefd33a26efd9122dc6,,"Насос садовый вибрационный Belamos BV028, 70 м, нижний забор воды 1000 л,час","['https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_2000,h_2000,c_pad,b_white,d_photoiscoming.png/LMCode/11796278.jpg', 'https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_2000,h_2000,c_pad,b_white,d_photoiscoming.png/LMCode/11796278_01.jpg', 'https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_2000,h_2000,c_pad,b_white,d_photoiscoming.png/LMCode/11796278_02.jpg', 'https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_2000,h_2000,c_pad,b_white,d_photoiscoming.png/LMCode/11796278_03.jpg']",
+614edf0ad33a26efd9122dd4,,"Насос для повышения давления Oasis CNP, 15,9","['https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_2000,h_2000,c_pad,b_white,d_photoiscoming.png/LMCode/15075751.jpg', 'https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_2000,h_2000,c_pad,b_white,d_photoiscoming.png/LMCode/15075751_01.jpg', 'https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_2000,h_2000,c_pad,b_white,d_photoiscoming.png/LMCode/15075751_02.jpg', 'https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_2000,h_2000,c_pad,b_white,d_photoiscoming.png/LMCode/15075751_03.jpg', 'https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_2000,h_2000,c_pad,b_white,d_photoiscoming.png/LMCode/15075751_04.jpg', 'https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_2000,h_2000,c_pad,b_white,d_photoiscoming.png/LMCode/15075751_05.jpg', 'https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_2000,h_2000,c_pad,b_white,d_photoiscoming.png/LMCode/15075751_tmp_01.jpg']",
+614edf0bd33a26efd9122dd5,,Вибрационный насос СОЮЗ Малыш НГС-97128Н,"['https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_2000,h_2000,c_pad,b_white,d_photoiscoming.png/LMCode/90122746.jpg']",
+614edf0dd33a26efd9122dd8,,"Насос циркуляционный Oasis 25,2 180 мм","['https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_2000,h_2000,c_pad,b_white,d_photoiscoming.png/LMCode/13795287.jpg', 'https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_2000,h_2000,c_pad,b_white,d_photoiscoming.png/LMCode/13795287_01.jpg', 'https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_2000,h_2000,c_pad,b_white,d_photoiscoming.png/LMCode/13795287_02.jpg', 'https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_2000,h_2000,c_pad,b_white,d_photoiscoming.png/LMCode/13795287_03.jpg', 'https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_2000,h_2000,c_pad,b_white,d_photoiscoming.png/LMCode/13795287_04.jpg', 'https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_2000,h_2000,c_pad,b_white,d_photoiscoming.png/LMCode/13795287_05.jpg', 'https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_2000,h_2000,c_pad,b_white,d_photoiscoming.png/LMCode/13795287_tmp_01.jpg']",
+614edf6fd33a26efd9122dff,Преподаватель программирования,от  36000руб. месяц 
+614edf71d33a26efd9122e00,Инженер-разработчик,150000  руб. месяц 
+614edf73d33a26efd9122e01,Учитель информатики,от  79000руб. месяц 
+614edf74d33a26efd9122e02,Специалист по обработке данных (Аналитик данных),от  30000руб. месяц 
+614edf74d33a26efd9122e03,Эксперт по Cisco Security,от  60000руб. месяц 
+614edf79d33a26efd9122e04,Преподаватель программирования / видеоблогинга,от  36000руб. месяц 
+614edf7ad33a26efd9122e05,Инженер-программист,от  80000руб. месяц 
+614edf7dd33a26efd9122e06,Учитель информатики / робототехники (основная школа и профильное образование),от  79000руб. месяц 
+614edf83d33a26efd9122e07,Middle специалист по автоматическому тестированию веб-приложений / QA инженер / Тестировщик,от  150000руб. месяц 
+614edf83d33a26efd9122e08,Ведущий специалист отдела информационных технологий,от  65000руб. месяц 
+614edf83d33a26efd9122e09,Компьютерный лингвист,от  50000руб. месяц 
+614edf87d33a26efd9122e0a,Ведущий программист Perl,160000  руб. месяц 
+614edf88d33a26efd9122e0b,Аналитик,
+614edf8ad33a26efd9122e0c,Ведущий инженер-программист / Разработчик программных решений,150000 175000  руб. месяц 
+614edf8dd33a26efd9122e0d,"Backend-разработчик (PHP, Middle)",от  100000руб. месяц 
+614edf90d33a26efd9122e0e,Программист 1С,от  100000руб. месяц 
+614edf95d33a26efd9122e0f,Fullstack Developer,100000 120000  руб. месяц 
+614edf96d33a26efd9122e10,"Главный инженер, технический директор",70000  руб. месяц 
+614edf97d33a26efd9122e11,Менеджер по персоналу,от  97200руб. месяц 
+614edf9cd33a26efd9122e12,Backend разработчик,от  150000руб. месяц 
+614edf9cd33a26efd9122e13,DevOps инженер,до  53500руб. месяц 
+614edf9fd33a26efd9122e14,ML engineer / Data scientist,
+614edf9fd33a26efd9122e15,Тестировщик ПО со знанием английского языка,от  150000руб. месяц 
+614edfa4d33a26efd9122e16,Ведущий разработчик серверной части,160000  руб. месяц 
+614edfa5d33a26efd9122e17,Инженер-физик,от  80000руб. месяц 
+614edfa7d33a26efd9122e18,Аналитик мобильных приложений / Игровой Аналитик (junior),от  72849руб. месяц 
+614edfacd33a26efd9122e19,Системный администратор Linux,от  70000руб. месяц 
+614edfacd33a26efd9122e1a,"Системный администратор, IT-специалист",от  72849руб. месяц 
+614edfb1d33a26efd9122e1b,Инженер технической поддержки,от  72000руб. месяц 
+614edfb3d33a26efd9122e1c,TeamLead развития решений по управлению данными (г. Сочи),
+614edfb3d33a26efd9122e1d,Специалист по информационным системам,от  30000руб. месяц 
+614edfb8d33a26efd9122e1e,Преподаватель компьютерных курсов (удаленно),от  80000руб. месяц 
+614edfbbd33a26efd9122e1f,Инженер-программист ЧМИ (SCADA),от  75000руб. месяц 
+614edfbcd33a26efd9122e20,Преподаватель компьютерных курсов,от  80000руб. месяц 
+614edfbfd33a26efd9122e21,Ведущий инженер,до  120000руб. месяц 
+614edfc0d33a26efd9122e22,Программист,160000  руб. месяц 
+614edfc4d33a26efd9122e23,Инженер-схемотехник,от  40000руб. месяц 
+614edfc8d33a26efd9122e24,Системный инженер (DevOps),до  53500руб. месяц 
+614edfcad33a26efd9122e25,Руководитель по внедрению проектов,от  45000руб. месяц 
+614edfced33a26efd9122e26,Инженер BMS/АСУЗ,до  53500руб. месяц 
+614edfcfd33a26efd9122e27,Преподаватель компьютерных курсов для детей,от  36000руб. месяц 
+614edfd5d33a26efd9122e28,Frontend программист,160000  руб. месяц 
+614edfd6d33a26efd9122e29,"Аналитик поддержки приложений (ERP, CRM)",от  72849руб. месяц 
+614edfd7d33a26efd9122e2a,"Преподаватель it-курсов, программирования, информатики",до  34000руб. месяц 
+614edfdbd33a26efd9122e2b,Golang (Go) Developer в международную IT-компанию,
+614edfded33a26efd9122e2c,Junior Analyst / Младший аналитик (удаленная работа),от  34000руб. месяц 
+614edfded33a26efd9122e2d,FullStack разработчик (автоматизация процессов и алгоритмов выявления мошенничества),150000  руб. месяц 
+614edfe2d33a26efd9122e2e,Web-аналитик,от  34000руб. месяц 
+614edfe5d33a26efd9122e2f,Преподаватель программирования и IT технологий,от  40000руб. месяц 
+614edfe6d33a26efd9122e30,Программист микроконтроллеров,от  150000руб. месяц 
+614edfead33a26efd9122e31,Инженер-программист по интеграции систем,150000 175000  руб. месяц 
+614edfecd33a26efd9122e32,Backend Developer,от  80000руб. месяц 
+614edfeed33a26efd9122e33,Web-программист,160000  руб. месяц 
+614edff1d33a26efd9122e34,Программист,от  100000руб. месяц 
+614edff4d33a26efd9122e35,Главный специалист отдела систем мониторинга и наблюдения,от  30000руб. месяц 
+614edff6d33a26efd9122e36,Аналитик (Junior),от  35000руб. месяц 
+614edffad33a26efd9122e37,C разработчик,160000  руб. месяц 
+614edffbd33a26efd9122e38,Педагог дополнительного образования,от  55000руб. месяц 
+614edfffd33a26efd9122e39,DevOps-инженер,до  53500руб. месяц 
+614ee001d33a26efd9122e3a,Системный администратор,27000 33000  руб. месяц 
+614ee002d33a26efd9122e3b,QA Automation Engineer,
+614ee005d33a26efd9122e3c,Программист 1С,от  80000руб. месяц 
+614ee007d33a26efd9122e3d,Специалист информационно-коммуникационных систем / Системный администратор 2-я линия,от  70000руб. месяц 
+614ee00ad33a26efd9122e3e,Учитель информатики,от  79000руб. месяц 
+614ee00dd33a26efd9122e3f,"Преподаватель программирования, веб-разработки",от  22000руб. месяц 
+614ee010d33a26efd9122e40,Back-программист,от  120000руб. месяц 
+614ee013d33a26efd9122e41,"Системный администратор, IT-специалист",от  72849руб. месяц 
+614ee015d33a26efd9122e42,DevOps инженер,до  53500руб. месяц 
+614ee018d33a26efd9122e43,Data Analyst,от  100000руб. месяц 
+614ee01bd33a26efd9122e44,Специалист 1 разряда отдела мониторинга функционирования АИС ФНС России,от  75000руб. месяц 
+614ee01dd33a26efd9122e45,Технический писатель (разработка программного обеспечения),
+614ee020d33a26efd9122e46,Web-программист,от  150000руб. месяц 
+614ee023d33a26efd9122e47,Аналитик данных,30000 37000  руб. месяц 
+614ee025d33a26efd9122e48,Администратор информационных систем,до  50800руб. месяц 
+614ee027d33a26efd9122e49,Аналитик,от  72849руб. месяц 
+614ee02ad33a26efd9122e4a,Администратор сопровождения,от  49000руб. месяц 
+614ee02ed33a26efd9122e4b,Педагог дополнительного образования в сфере IT,от  35000руб. месяц 
+614ee031d33a26efd9122e4c,Системный инженер / DevOps (удаленная работа),до  53500руб. месяц 
+614ee033d33a26efd9122e4d,Ведущий аудитор,500  руб. час 20000 25000  руб. месяц 
+614ee037d33a26efd9122e4e,Аналитик данных (Data Scientist),от  30000руб. месяц 
+614ee03ad33a26efd9122e4f,Дежурный администратор,
+614ee03dd33a26efd9122e50,Data Scientist,до  150000руб. месяц 
+614ee03ed33a26efd9122e51,DevOps-инженер контейнеризированных решений,от  65000руб. месяц 
+614ee040d33a26efd9122e52,Ведущий инженер по сопровождению,от  89000руб. месяц 
+614ee043d33a26efd9122e53,Представитель владельца моделей,от  55000руб. месяц 
+614ee046d33a26efd9122e54,Руководитель направления портфельного анализа (Collection),
+614ee048d33a26efd9122e55,Системный аналитик в трайб Риски розничного бизнеса,
+614ee04ad33a26efd9122e56,Java разработчик,от  150000руб. месяц 
+614ee04ed33a26efd9122e57,Data Engineer / Support Engineer,
+614ee050d33a26efd9122e58,Аналитик экономических показателей,от  35000руб. месяц 
+614ee056d33a26efd9122e59,Инженер внедрения и сопровождения (Platform V),до  53500руб. месяц 
+614ee058d33a26efd9122e5a,DevOps инженер,от  55000руб. месяц 
+614ee059d33a26efd9122e5b,DevOps,
+614ee05ad33a26efd9122e5c,Консультант по интеграции SAP,от  28000руб. месяц 
+614ee05ed33a26efd9122e5d,QA automation,
+614ee062d33a26efd9122e5e,DevOps-инженер,от  55000руб. месяц 
+614ee062d33a26efd9122e5f,Customer Journey Expert кластера Благосостояние,
+614ee063d33a26efd9122e60,Data scientist,150000 175000  руб. месяц 
+614ee065d33a26efd9122e61,Ведущий инженер по сопровождению в департамент ИТ блока Финансы,от  89000руб. месяц 
