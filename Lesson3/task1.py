@@ -11,7 +11,7 @@ db = MongoClient('localhost', 27017)['GB']
 collection = db.list_vacancies
 # search_text = input('введите то что вы ищете: ')
 
-headers = {'User-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64)'}
+headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64)'}
 # url = (f'https://www.superjob.ru/vacancy/search/?keywords={search_text}')
 url = (f'https://www.superjob.ru/vacancy/search/?keywords=водитель')
 
