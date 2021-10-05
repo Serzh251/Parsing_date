@@ -1,5 +1,9 @@
+import os
 from os.path import splitext
+from urllib.parse import urlparse
+
 from scrapy.pipelines.files import FilesPipeline
+from scrapy.pipelines.images import ImagesPipeline
 from scrapy import Request
 import scrapy
 from pymongo import MongoClient
@@ -42,15 +46,23 @@ class DataBasePipeline(object):
         return item
 
 
-class LeroyPhotosPipeline(FilesPipeline):
-    def get_media_requests(self, item, info):
-        return [Request(x, meta={'filename': item.get('file_name')}) for x in item.get(self.files_urls_field, [])]
+class LeroyParserPipeline:
+    def process_item(self, item):
+        return item
 
-    def file_path(self, request, response=None, info=None):
-        url = request.url
-        media_ext = splitext(url)[1]
-        return f'{request.meta["filename"]}\{request.meta["filename"]}{media_ext}'
-        # print('<<<<<<<-------------->>>>>>>>', request)
-        # return f'photo\\{request.meta["filename"]}{media_ext}'
-        # return f'item["file_name"]\{request.meta["file_name"]}{media_ext}'
-        return f'{request.meta["filename"]}\{request.meta["filename"]}{media_ext}'
+
+class LeroyPhotosPipeline(ImagesPipeline):
+    def get_media_requests(self, item, info):
+        if item['file_urls']:
+            for img in item['file_urls']:
+                try:
+                    yield scrapy.Request(img)
+                except Exception as e:
+                    print(e)
+
+    def item_completed(self, results, item, info):
+        item['file_urls'] = [itm[1] for itm in results if itm[0]]
+        return item
+
+    def file_path(self, request, response=None, info=None, *, item=None):
+        return item['file_name'] + '/' + os.path.basename(urlparse(request.url).path)

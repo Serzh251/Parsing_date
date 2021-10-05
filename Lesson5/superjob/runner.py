@@ -15,5 +15,4 @@ if __name__ == '__main__':
     # process.crawl(HhruSpider)
     # process.crawl(SuperjobSpider)
     process.crawl(LeroySpider, mark='насос')
-    # process.crawl(LeroySpider)
     process.start()

@@ -13,9 +13,11 @@ LOG_LEVEL = 'DEBUG'
 ITEM_PIPELINES = {
    'superjob.pipelines.SuperjobPipeline': 1,
    'superjob.pipelines.LeroyPhotosPipeline': 2,
-   'superjob.pipelines.DataBasePipeline': 3,
+   'superjob.pipelines.JobparserPipeline': 5,
+   'superjob.pipelines.LeroyParserPipeline': 3,
+   'superjob.pipelines.DataBasePipeline': 4,
 }
-FILES_STORE = r'downloaded'
+IMAGES_STORE = 'photos'
 
 DOWNLOAD_DELAY = 2
 
